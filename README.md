@@ -199,7 +199,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 ![image](https://github.com/user-attachments/assets/97fa5079-4b2b-47d8-b5a3-c463acab6ad6)
 ![image](https://github.com/user-attachments/assets/5556a811-136d-4c95-84ed-ea8389a2d0b8)
 ![image](https://github.com/user-attachments/assets/e56a31dc-da2a-4723-ba78-2dbc768284e2)
-![image](https://github.com/user-attachments/assets/8a8558cb-618a-47a3-b903-fbdc5bd93e78)
 ![image](https://github.com/user-attachments/assets/cc176ab2-c7e8-41b7-8844-5dd33a423e5b)
 
 
